@@ -1,0 +1,27 @@
+name: www
+description: Home page of Dash Inside www
+homepage: www.dash-inside.com
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  fluent_ui: ^4.7.7
+  flutter:
+    sdk: flutter
+  get_it: ^7.6.4
+  injectable: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  injectable_generator: ^2.4.1
+
+flutter:
+  uses-material-design: false
+  assets:
+    - assets/flf/isometric1.flf
