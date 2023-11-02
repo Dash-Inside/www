@@ -1,4 +1,4 @@
-# WWW Flutter Dash Inside resource
+# www.dash-inside.com
 
 ***official [Dash Inside](https://www.dash-inside.com) development team resource***
 
